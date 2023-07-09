@@ -149,5 +149,10 @@ public class Employee {
             return false;
         return true;
     }
+
+    @Override
+    public String toString() {
+        return "Employee [id=" + id + ", name=" + name + ", email=" + email + ", competence=" + competence + "]";
+    }
     
 }

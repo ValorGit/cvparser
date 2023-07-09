@@ -33,4 +33,25 @@ public class Skill {
     public Skill(){
 
     }
+
+    public String getName(){
+        return this.name;
+    }
+
+    public void setName(String name){
+        this.name = name;
+    }
+
+    public String getDescription(){
+        return this.description;
+    }
+
+    public void setDescription(String description){
+        this.description = description;
+    }
+
+    @Override
+    public String toString(){
+        return "id: " + this.id + " name: " + this.name + " description: " + this.description; 
+    }
 }
