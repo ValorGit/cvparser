@@ -1,0 +1,64 @@
+{
+    "taxonomy": {
+      "Communication Skills": [
+        "Verbal Communication",
+        "Written Communication",
+        "Presentation Skills",
+        "Interpersonal Skills",
+        "Listening Skills"
+      ],
+      "Product Knowledge": [
+        "Understanding of Products/Services",
+        "Features and Benefits",
+        "Industry Knowledge",
+        "Competitive Analysis"
+      ],
+      "Relationship Building": [
+        "Rapport Building",
+        "Customer Service",
+        "Networking",
+        "Trust Building",
+        "Client Relationship Management"
+      ],
+      "Persuasion and Negotiation": [
+        "Sales Techniques",
+        "Influence and Persuasion",
+        "Objection Handling",
+        "Negotiation Strategies",
+        "Closing Techniques"
+      ],
+      "Time and Task Management": [
+        "Prioritization",
+        "Time Management",
+        "Goal Setting",
+        "Territory Management",
+        "Pipeline Management"
+      ],
+      "Adaptability and Flexibility": [
+        "Adapting to Customer Needs",
+        "Changing Market Conditions",
+        "Embracing New Technologies",
+        "Adjusting Sales Strategies"
+      ],
+      "Resilience and Persistence": [
+        "Handling Rejections",
+        "Overcoming Obstacles",
+        "Positive Mindset",
+        "Perseverance"
+      ],
+      "Problem-Solving": [
+        "Analytical Skills",
+        "Creative Thinking",
+        "Solution-Oriented Approach",
+        "Critical Decision Making"
+      ],
+      "Self-Motivation and Drive": [
+        "Goal Setting",
+        "Self-Initiative",
+        "Continuous Learning",
+        "Personal Development",
+        "Results Orientation"
+      ]
+    }
+  }
+  
